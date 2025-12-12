@@ -1,0 +1,23 @@
+-- LocalScript（StarterPlayerScripts に入れる）
+
+local Users = game:GetService("UserInputService")
+local Players = game:GetService("Players")
+
+local player = Players.LocalPlayer
+
+-- TP先の座標（ここを変更すれば行き先変更できる）
+local TARGET_POS = Vector3.new(-282.5, 392.8, 598.2)
+
+-- Pキー押した時
+Users.InputBegan:Connect(function(input, gameProcessed)
+    if gameProcessed then return end
+
+    -- Pキー判定
+    if input.KeyCode == Enum.KeyCode.P then
+        local char = player.Character or player.CharacterAdded:Wait()
+        local hrp = char:WaitForChild("HumanoidRootPart")
+
+        -- 少し浮かせて埋まりを防ぐ
+        hrp.CFrame = CFrame.new(TARGET_POS + Vector3.new(0, 2, 0))
+    end
+end)
