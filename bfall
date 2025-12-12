@@ -1,4 +1,3 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/satoreti0317/privite/refs/heads/main/satoreti"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/satoreti0317/privite/refs/heads/main/Pkey"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/satoreti0317/privite/refs/heads/main/irukahub"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/satoreti0317/privite/refs/heads/main/redz"))()
