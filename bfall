@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/satoreti0317/privite/refs/heads/main/satoreti?token=GHSAT0AAAAAADPHZO33VV5Z32HDGXVUDHNU2J4ARWA"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/satoreti0317/privite/refs/heads/main/Pkey?token=GHSAT0AAAAAADPHZO32YJDYETAOVM3O2GQW2J4BJ6A"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/satoreti0317/privite/refs/heads/main/irukahub?token=GHSAT0AAAAAADPHZO33F6DTQN7TS6MEAE2C2J4BKRQ"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/satoreti0317/privite/refs/heads/main/redz?token=GHSAT0AAAAAADPHZO33QZ6IVH3P6MJ5333U2J4BLFQ"))()
