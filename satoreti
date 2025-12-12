@@ -17,21 +17,8 @@ local scripts = {
 	["シスブロ"]   = function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/script"))()
 	end,
-	["サード"]   = function()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt"))()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/satoreti0317/anal/refs/heads/main/badhiso"))()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/satoreti0317/anal/refs/heads/main/jump"))()
-		loadstring(game:HttpGet('https://raw.githubusercontent.com/ScpGuest666/Random-Roblox-script/refs/heads/main/Roblox%20Vehicle%20Fly%20Gui%20script'))()
-	end,
-	["セカンド"]   = function()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt"))()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/script"))()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/mame1123ccc/mametp/refs/heads/main/ghostrule.lua"))()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/satoreti0317/anal/refs/heads/main/badhiso"))()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/satoreti0317/anal/refs/heads/main/ezlava"))()
-	end,
 	["redz"]   = function()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/tlredz/Scripts/refs/heads/main/main.luau"))()
+		loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/20f318386e3fbf069ee3fa797cfc9f34.lua"))()
 	end,
 	["船れ妨害"]   = function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/satoreti0317/anal/refs/heads/main/ship"))()
